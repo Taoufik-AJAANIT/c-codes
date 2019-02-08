@@ -1,9 +1,10 @@
+using System;
 using System.Collections.Generic;
 using System.Security.Policy;
 
 namespace GRH_ENSAT{
     
-    public class Group{
+    public class Group : IComparable<Group>{
         private string label;
         private List<Etudiant> lesEtudiant;
         private int nbrEtudiant;
@@ -53,7 +54,18 @@ namespace GRH_ENSAT{
             get => nbrEtudiant;
             set => nbrEtudiant = value;
         }
-        
-        
+
+        public void trier(){
+            lesEtudiant.Sort();
+                
+        }
+
+
+        public int CompareTo(Group other){
+            if (nbrEtudiant < other.NbrEtudiant)
+                return -1;
+            return 1;
+
+        }
     }
 }

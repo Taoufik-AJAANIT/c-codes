@@ -43,7 +43,14 @@ namespace GRH_ENSAT{
 
             return base.Saliare + prim_diplacement + heures_sup;
         }
-        
+
+        public void trier(){
+            foreach (var group in groups.Values) {
+            groups.
+                )
+            }
+            
+        }
         
     }
 }
