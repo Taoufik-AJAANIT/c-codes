@@ -1,0 +1,5 @@
+/home/taoufik/RiderProjects/TP3/TP3/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/taoufik/RiderProjects/TP3/TP3/bin/Debug/TP3.exe.mdb
+/home/taoufik/RiderProjects/TP3/TP3/bin/Debug/TP3.exe
+/home/taoufik/RiderProjects/TP3/TP3/obj/Debug/TP3.exe
+/home/taoufik/RiderProjects/TP3/TP3/obj/Debug/TP3.exe.mdb

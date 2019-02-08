@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_GRH-ENSAT.1372429897.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="GRH-ENSAT" t="IncludeRecursive">
+        <e p="Directeur.cs" t="Include" />
+        <e p="Etudiant.cs" t="Include" />
+        <e p="GRH-ENSAT.csproj" t="IncludeRecursive" />
+        <e p="Group.cs" t="Include" />
+        <e p="Perso_administratif.cs" t="Include" />
+        <e p="Perso_enseignant.cs" t="Include" />
+        <e p="Personne.cs" t="Include" />
+        <e p="Personnel.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="GRH-ENSAT.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
